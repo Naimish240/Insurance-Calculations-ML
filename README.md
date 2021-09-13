@@ -1,5 +1,6 @@
 # Insurance-Calculations-ML
 
+[Kaggle Notebook](https://www.kaggle.com/naimish123/insurance-calculations)
 
 The issue of missing packages has plagued the postal and shipping industry for as long as one can remember. This is especially costly (in terms of both money and reputation) in the modern day and age, where e commerce companies regularly ship out valuable goods to their paying customers.
 
